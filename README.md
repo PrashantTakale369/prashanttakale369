@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Takale</h1>
 <h3 align="center">A passionate software developer💻💻 from India and cybersecurity enthusiast</h3>
 
-- 🔭 I’m currently working on [smart attendeance systeam by using qr code 💻](https://github.com/PrashantTakale369/smart-attendance-system.git)
+- 🔭 I’m currently working on [smart attendeance systeam by using qr code 💻](https://github.com/PrashantTakale369/java_project.git)
 
 - 🌱 I’m currently learning **Java, python🐍 and Java(DSA)**
 
