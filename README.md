@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Takale</h1>
-<h3 align="center">A passionate software developer💻💻 from India and cybersecurity enthusiast</h3>
+<h3 align="center">A passionate software developer💻💻 and problem solving DSA</h3>
 
 - 🔭 I’m currently working on [Suduko Solver 💻](https://github.com/PrashantTakale369/java_project.git)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrashantTakale369](https://github.com/PrashantTakale369)
 
-- 💬 Ask me about **python Basic🐍 and Java Basic**
+- 💬 Ask me about **DSA Basic🐍 and Java Basic**
 
 - 📫 How to reach me **unoprashant876@gmail.com**
 
