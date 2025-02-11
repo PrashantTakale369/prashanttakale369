@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Takale</h1>
 <h3 align="center">A passionate software developer💻💻 and problem solving DSA</h3>
 
-- 🔭 I’m currently working on [All_ML_Algorithm's](https://github.com/PrashantTakale369/All_ML_Algoritm's.git)
+- 🔭 I’m currently working on [All_ML_Algorithm's](https://github.com/PrashantTakale369/ALL_ML_Algorithm-s-)
 
 - 🌱 I’m currently learning **Java, python🐍 and Java(DSA)**
 
