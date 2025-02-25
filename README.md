@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrashantTakale369](https://github.com/PrashantTakale369)
 
-- 💬 Ask me about **DSA Basic🐍 and Java Basic**
+- 💬 Ask me about **DSA Basic🐍 and Java Basic and Machine Learning **
 
 - 📫 How to reach me **unoprashant876@gmail.com**
-
-- ⚡ Fun fact **I think i am so cool man.😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
