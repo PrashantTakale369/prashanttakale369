@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Takale</h1>
-<h3 align="center">A passionate software developer💻💻 and problem solving  also i am very intersted in Machine Learning and Deep Learning DSA</h3>
+<h3 align="center">A passionate software developer💻💻 and problem solving  also i am very intersted in Machine Learning and Deep Learning</h3>
 
 - 🌱 I’m currently learning **Java, python🐍 and Java(DSA) ,ML And DL also Agentic Ai**
 
