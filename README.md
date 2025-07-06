@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prashant Takale</h1>
-<h3 align="center">A passionate software developer💻💻 and problem solving DSA</h3>
+<h3 align="center">A passionate software developer💻💻 and problem solving  also i am very intersted in Machine Learning and Deep Learning DSA</h3>
 
-- 🌱 I’m currently learning **Java, python🐍 and Java(DSA) , ML And DL**
+- 🌱 I’m currently learning **Java, python🐍 and Java(DSA) ,ML And DL also Agentic Ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrashantTakale369](https://github.com/PrashantTakale369)
 
-- 💬 Ask me about **DSA Basic🐍 and Java Basic and Machine Learning **
+- 💬 Ask me about **Machine Learning and Large Language Model's **
 
-- 📫 How to reach me **unoprashant876@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
