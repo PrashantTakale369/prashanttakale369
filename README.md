@@ -6,9 +6,6 @@
   🚀 A passionate software developer and problem solver with a strong interest in Machine Learning, Deep Learning & Agentic AI
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashanttakale369&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
