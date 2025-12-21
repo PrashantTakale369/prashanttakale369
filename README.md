@@ -24,9 +24,22 @@
 - âš¡ Fun fact: I love turning complex AI problems into simple, elegant solutions!
 
 ---
+### ğŸ¤ Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashanttakale876/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/prashant_takale876/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codolio.com/profile/Prashant_876" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
+  </a>
+</p>
 
-### í¾¯ Skills & Expertise
+---
+### Skills & Expertise
 
 #### **Programming & Development**
 <p align="left">
