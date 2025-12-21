@@ -20,7 +20,7 @@
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP & Computer Vision**
 - 🏆 **1st Prize at DIPEX 2025** (State Level) - AI-Powered Communication Coach
 - 📝 Published **2 Research Papers** (Scopus Indexed & Journal)
-- 💡 Solved **200+ DSA problems** on LeetCode, GeeksforGeeks & HackerRank
+- 💡 Solved *400*+ DSA problems** on LeetCode, GeeksforGeeks & HackerRank
 - ⚡ Fun fact: I love turning complex AI problems into simple, elegant solutions!
 
 ---
