@@ -12,13 +12,7 @@
 ### 🧑‍💻 About Me
 
 - � **B.Tech in ENTC Engineering** at **VIIT Pune** 
-- 🌱 Currently working with **Java, DSA, Python, FastAPI, AI/ML, Deep Learning, Transformers, CNN, LangChain & LLMs**
-- 👨‍💻 All of my projects are available at **[github.com/PrashantTakale369](https://github.com/PrashantTakale369)**
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP & Computer Vision**
 - 🏆 **1st Prize at DIPEX 2025** (State Level) - AI-Powered Communication Coach
-- 📝 Published **2 Research Papers** (Scopus Indexed & Journal)
-- 💡 Solved **400+ DSA problems** on LeetCode, GeeksforGeeks & HackerRank
-- ⚡ Fun fact: I love turning complex AI problems into simple, elegant solutions!
 
 ---
 ### 🤝 Connect with Me
