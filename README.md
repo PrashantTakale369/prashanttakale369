@@ -8,11 +8,3 @@
 
 
 ---
-
-### 🧑‍💻 About Me
-
-- � **B.Tech in ENTC Engineering** at **VIIT Pune** 
-- 🏆 **1st Prize at DIPEX 2025** (State Level) - AI-Powered Communication Coach
-  
----
-
