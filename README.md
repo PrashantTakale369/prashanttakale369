@@ -9,7 +9,7 @@ I build efficient, scalable AI systems : with a focus on LLM inference, quantiza
 - **Ranked 20th globally** out of 550+ submissions : ICML 2026 Efficient Qwen Optimization Competition, achieving a **~3× inference speedup** on Qwen3.5-4B on a single NVIDIA A10G GPU
 - Released **`AxisQuant/Qwen3.6-27B-GPTQ-INT4`**, an open-source INT4-quantized LLM :  **10K+ downloads** on Hugging Face
 - **1st Prize, DIPEX 2025** (State Level) : for SamvaadSetu
-- Technical writer : blogs on LLM quantization and inference efficiency, One of them Published under the Glance Publication 
+- Technical writer : blogs on LLM quantization and inference efficiency also 1x of them Published under the Glance Publication 
 
 #### 🔧 Currently working on 
 - Fine Tuning a Small Language Model on a Marathi <> English task specific Dataset Focused on AIML Concepts.
