@@ -14,16 +14,8 @@ I build efficient, scalable AI systems : with a focus on LLM inference, quantiza
 - Fine Tuning a Small Language Model on a Marathi <> English task specific Dataset Focused on AIML Concepts.
 - Training a 250M-Parameter LLM From Scratch: Scaling Down the ( Sarvam-1 3B)  Architecture on an Approximately $100 AWS Infrastructure Budget [ *The repository is private for now :)* ]
 
-
-#### 💡 Selected projects
-- **Intelligent Fashion Search Engine** — CLIP + Qwen2-VL two-stage retrieval, <50ms search over 1M+ images, 95%+ precision
-- **SamvaadSetu** — real-time presentation coaching (MediaPipe + Deepgram + Gemini), <500ms feedback latency, 90% relevance across 150+ sessions
-
-#### 🧰 Skills
-`Python` `Transformers` `vLLM` `SGLang` `Quantization` `KV Cache` `FAISS` `FastAPI` `LangChain` `LangGraph`
-
 **Interests:** LLM Systems · Inference Optimization · Multimodal AI · Open-Source AI Research · VLMs · Resarch
 
 500+ DSA problems solved (LeetCode, GFG) · competitive programmer on Codeforces & CodeChef · B.Tech ECE, VIIT Pune (2027)
 
-📫 [LinkedIn](https://www.linkedin.com/in/prashanttakale876/?skipRedirect=true) · [Hugging Face](https://huggingface.co/AxisQuant) · [Medium](https://medium.com/@prashantcp876)
+📫 [LinkedIn](https://www.linkedin.com/in/prashanttakale876/?skipRedirect=true) · [Hugging Face](https://huggingface.co/AxisQuant) · [Medium](https://medium.com/@prashantcp876) · [Resume](https://drive.google.com/file/d/1R-plkWnX_6_snJ9rRVWyz8M-SXeAZVEW/view?usp=sharing)
