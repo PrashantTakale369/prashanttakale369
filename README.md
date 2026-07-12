@@ -1,24 +1,28 @@
-<div align="center">
+### Hi, I'm Prashant Takale 👋
 
-# Prashant Takale
+**Machine Learning Engineer | LLM Inference | Model Optimization**
 
-### Machine Learning Engineer | LLM Inference | Model Optimization
+I build efficient, scalable AI systems — with a focus on LLM inference, quantization, speculative decoding, multimodal AI, RAG, and agentic workflows.
 
-I build efficient and scalable AI systems, with a focus on **LLM inference, quantization, speculative decoding, multimodal AI, RAG, and agentic workflows**.
+#### 🏆 Achievements
+- **Ranked 20th globally** out of 550+ submissions — ICML 2026 Efficient Qwen Optimization Competition, achieving a **~3× inference speedup** on Qwen3.5-4B on a single NVIDIA A10G GPU
+- Released **`AxisQuant/Qwen3.6-27B-GPTQ-INT4`**, an open-source INT4-quantized LLM — **10K+ downloads** on Hugging Face
+- **1st Prize, DIPEX 2025** (State Level) — for SamvaadSetu
+- Technical writer — blogs on LLM quantization and inference efficiency
 
-### Achievements
+#### 🔧 Currently writing
+- The full ICML pipeline: quantization, prefix KV caching, and speculative decoding — including what didn't work
+- A from-scratch GPTQ walkthrough, quantizing a 27B model to INT4 on a single 24GB GPU
 
-🏆 Ranked **20th globally** in the ICML 2026 Efficient Qwen Optimization Competition
-🤗 Released a quantized **27B LLM with 10K+ Hugging Face downloads**
-✍️ Published an LLM quantization blog under the **Glance Engineering Publication**
-🥇 Won **1st Prize at DIPEX 2025**
+#### 💡 Selected projects
+- **Intelligent Fashion Search Engine** — CLIP + Qwen2-VL two-stage retrieval, <50ms search over 1M+ images, 95%+ precision
+- **SamvaadSetu** — real-time presentation coaching (MediaPipe + Deepgram + Gemini), <500ms feedback latency, 90% relevance across 150+ sessions
 
-### Skills
-
+#### 🧰 Skills
 `Python` `PyTorch` `Transformers` `vLLM` `SGLang` `Quantization` `KV Cache` `FAISS` `FastAPI` `LangChain` `LangGraph`
 
-### Interests
+**Interests:** LLM Systems · Inference Optimization · Multimodal AI · Open-Source AI Research
 
-LLM Systems · Inference Optimization · Multimodal AI · Open-Source AI Research
+500+ DSA problems solved (LeetCode, GFG) · competitive programmer on Codeforces & CodeChef · B.Tech ECE, VIIT Pune (2027)
 
-</div>
+📫 [LinkedIn](#) · [Hugging Face](#) · [Medium](#)
