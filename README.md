@@ -11,7 +11,9 @@ I build efficient, scalable AI systems : with a focus on LLM inference, quantiza
 - Technical writer : blogs on LLM quantization and inference efficiency, One of them Published under the Glance Publication 
 
 #### 🔧 Currently working on 
-- Fien-tuning the Smalle model on the Marathi <> English specific dataset : ( for on AIML Conecepts ) 
+- Fine Tuning a Small Language Model on a Marathi <> English task specific Dataset Focused on AIML Concepts.
+- Training a 250M-Parameter LLM From Scratch: Scaling Down the ( Sarvam-1 3B)  Architecture on an Approximately $100 AWS Infrastructure Budget [ *The repository is private for now :)* ]
+
 
 #### 💡 Selected projects
 - **Intelligent Fashion Search Engine** — CLIP + Qwen2-VL two-stage retrieval, <50ms search over 1M+ images, 95%+ precision
