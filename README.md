@@ -12,10 +12,10 @@ I build efficient, scalable AI systems : with a focus on LLM inference, quantiza
 - Technical writer : blogs on LLM quantization and inference efficiency also 1x of them Published under the [Glance Publication](https://medium.com/glance-engineering/running-27b-model-on-single-24gb-gpu-compressing-from-54gb-to-14gb-vram-with-near-baseline-44fad423a913) 
 
 #### 🔧 Currently working on 
-- Fine Tuning a Small Language Model on a Marathi <> English task specific Dataset Focused on AIML Concepts.
-- Training a 250M-Parameter LLM From Scratch: Scaling Down the ( Sarvam-1 3B)  Architecture on an Approximately $100 AWS Infrastructure Budget [ *The repository is private for now :)* ]
-
-
+-  IndicPrayog-0.5B-A50M   : [Github Repo](https://github.com/PrashantTakale369/IndicPrayog-0.5B-A50M)
+-  Model_FineTuning        : [Github Repo](https://github.com/PrashantTakale369/Model_FineTuning)
+-  Model_Optimization      : [Github Repo](https://github.com/PrashantTakale369/Model_Optimization)
+-  Infearance_optimization : [Github Repo](https://github.com/PrashantTakale369/Infearance_optimization)
 
 
 📫 [LinkedIn](https://www.linkedin.com/in/prashanttakale876/?skipRedirect=true) · [Hugging Face](https://huggingface.co/AxisQuant) · [Medium](https://medium.com/@prashantcp876) · [Resume](https://drive.google.com/file/d/1R-plkWnX_6_snJ9rRVWyz8M-SXeAZVEW/view?usp=sharing)
