@@ -13,8 +13,7 @@ I build efficient, scalable AI systems : with a focus on LLM inference, quantiza
 
 #### 🔧 Currently working on 
 -  IndicPrayog-0.5B-A50M   : [Github Repo](https://github.com/PrashantTakale369/IndicPrayog-0.5B-A50M)
--  Model_FineTuning        : [Github Repo](https://github.com/PrashantTakale369/Model_FineTuning)
--  Model_Optimization      : [Github Repo](https://github.com/PrashantTakale369/Model_Optimization)
+-  IndicPrayog-VL-50M      : [Github Repo](https://github.com/PrashantTakale369/IndicPrayog-VL-50M)
 -  Infearance_optimization : [Github Repo](https://github.com/PrashantTakale369/Infearance_optimization)
 
 
