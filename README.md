@@ -17,4 +17,4 @@ I build efficient, scalable AI systems : with a focus on LLM inference, quantiza
 -  Infearance_optimization : [Github Repo](https://github.com/PrashantTakale369/Infearance_optimization)
 
 
-📫 [LinkedIn](https://www.linkedin.com/in/prashanttakale876/?skipRedirect=true) · [Hugging Face](https://huggingface.co/AxisQuant) · [Medium](https://medium.com/@prashantcp876) · [Resume](https://drive.google.com/file/d/1R-plkWnX_6_snJ9rRVWyz8M-SXeAZVEW/view?usp=sharing)
+📫 [LinkedIn](https://www.linkedin.com/in/prashanttakale876/?skipRedirect=true) · [Hugging Face](https://huggingface.co/AxisQuant) · [Medium](https://medium.com/@prashantcp876) 
