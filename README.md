@@ -13,8 +13,6 @@ I build efficient, scalable AI systems : with a focus on LLM inference, quantiza
 
 #### 🔧 Currently working on 
 -  IndicPrayog-0.5B-A50M   : [Github Repo](https://github.com/PrashantTakale369/IndicPrayog-0.5B-A50M)
--  IndicPrayog-VL-50M      : [Github Repo](https://github.com/PrashantTakale369/IndicPrayog-VL-50M)
--  Infearance_optimization : [Github Repo](https://github.com/PrashantTakale369/Infearance_optimization)
 
 
-📫 [LinkedIn](https://www.linkedin.com/in/prashanttakale876/?skipRedirect=true) · [Hugging Face](https://huggingface.co/AxisQuant) · [Medium](https://medium.com/@prashantcp876) 
+📫 [X](https://x.com/Prashant_0988) · [Hugging Face](https://huggingface.co/AxisQuant) · [Medium](https://medium.com/@prashantcp876) 
