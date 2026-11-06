@@ -20,9 +20,9 @@
 
 ### At a glance
 
-| **27B → 24GB GPU** | **~2.97× faster** | **#20 globally** | **1st place** |
-|:---:|:---:|:---:|:---:|
-| Published a GPTQ INT4 Qwen3.6-27B checkpoint runnable on a single 24GB GPU | Qwen3.5-4B latency speedup in the ICML'26 Efficient Qwen competition | Out of 550+ competition submissions | DIPEX 2025, state-level, for SamvaadSetu |
+| **27B → 24GB GPU** | **~2.97× Faster** | **#20 Globally** | **1st Place** | **500+ DSA Problems** |
+|:---:|:---:|:---:|:---:|:---:|
+| Published a GPTQ INT4 Qwen3.6-27B checkpoint runnable on a single 24GB GPU | Qwen3.5-4B inference speedup in the ICML'26 Efficient Qwen competition | Ranked among 550+ competition submissions | DIPEX 2025, state-level winner for SamvaadSetu | Solved 500+ DSA problems on [LeetCode](https://leetcode.com/) and GeeksforGeeks |
 
 ### Open-source contributions
 
