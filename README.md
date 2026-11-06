@@ -35,7 +35,6 @@ I contribute beyond my own repositories, particularly around **OpenVINO inferenc
 | [OpenVINO GenAI · PR #4238](https://github.com/openvinotoolkit/openvino.genai/pull/4238) | Heterogeneous LTX text-to-video examples across selectable CPU/GPU/NPU devices | **Open PR** |
 | [OpenVINO · Issue #39337](https://github.com/openvinotoolkit/openvino/issues/39337) | Reported i32 precision loss above 2²⁴ on CPU/aarch64; reproducible analysis across 22 operations | **Reported** |
 
-<sub>Contribution states checked on November 6, 2026. PRs shown as open are not described as merged.</sub>
 
 ###  Technical writing
 
