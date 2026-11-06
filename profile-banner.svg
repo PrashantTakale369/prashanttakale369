@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-labelledby="t d">
+ <title id="t">Prashant Takale - ML Engineering and Open Source</title>
+ <desc id="d">Modern dark banner with the name Prashant Takale, ML engineer and inference researcher, and an abstract neural network motif.</desc>
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1023"/><stop offset=".55" stop-color="#0d1930"/><stop offset="1" stop-color="#0b2134"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#14b8a6" stop-opacity=".22"/><stop offset="1" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#4e688a" stroke-opacity=".12" stroke-width="1"/></pattern>
+ </defs>
+ <rect width="1200" height="365" rx="22" fill="url(#bg)"/>
+ <rect width="1200" height="365" rx="22" fill="url(#grid)"/>
+ <circle cx="1000" cy="185" r="240" fill="url(#halo)"/>
+ <rect x="66" y="68" width="7" height="222" rx="3.5" fill="url(#line)"/>
+ <text x="103" y="102" fill="#67e8f9" font-size="21" font-weight="600" font-family="Arial,Helvetica,sans-serif" letter-spacing="3">HELLO WORLD, I'M</text>
+ <text x="100" y="175" fill="#f8fafc" font-size="59" font-weight="750" font-family="Arial,Helvetica,sans-serif">Prashant Takale</text>
+ <text x="102" y="228" fill="#a5d8ef" font-size="25" font-weight="500" font-family="Arial,Helvetica,sans-serif">ML Engineering  /  LLM Inference  /  Open Source</text>
+ <text x="103" y="274" fill="#8ca3bc" font-size="18" font-family="Arial,Helvetica,sans-serif" letter-spacing=".4">Build  •  Benchmark  •  Optimize  •  Share</text>
+ <g fill="none" stroke="#48cbd3" stroke-width="1.7" stroke-opacity=".45">
+  <path d="M835 121L915 72L1020 109L1121 64M835 121L901 185L1020 109L1113 205M901 185L1023 253L1113 205L1145 290M835 121L804 261L901 185L1023 253L1102 310M915 72L1023 253M1020 109L1102 310" />
+  <path d="M835 121L1023 253M915 72L1113 205M901 185L1121 64" stroke-dasharray="5 9" stroke-opacity=".20"/>
+ </g>
+ <g fill="#0b2134" stroke="#67e8f9" stroke-width="2.5">
+  <circle cx="835" cy="121" r="8"/><circle cx="915" cy="72" r="7"/><circle cx="1020" cy="109" r="11"/><circle cx="1121" cy="64" r="7"/><circle cx="901" cy="185" r="12"/><circle cx="1113" cy="205" r="10"/><circle cx="1023" cy="253" r="12"/><circle cx="804" cy="261" r="7"/><circle cx="1102" cy="310" r="8"/><circle cx="1145" cy="290" r="7"/>
+ </g>
+ <circle cx="901" cy="185" r="4" fill="#2dd4bf"/><circle cx="1020" cy="109" r="4" fill="#2dd4bf"/><circle cx="1023" cy="253" r="4" fill="#2dd4bf"/>
+ <rect x="1" y="1" width="1198" height="363" rx="21" fill="none" stroke="#255e78" stroke-opacity=".65" stroke-width="2"/>
+</svg>
