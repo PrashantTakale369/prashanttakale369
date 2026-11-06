@@ -31,8 +31,8 @@ I contribute beyond my own repositories, particularly around **OpenVINO inferenc
 | Project | Contribution | Status |
 |:--|:--|:--|
 | [OpenVINO GenAI · PR #4706](https://github.com/openvinotoolkit/openvino.genai/pull/4706) | Added SmolLM-135M, SmolLM2-135M, and SmolLM2-360M checkpoint entries to the supported-model catalog | **Merged** |
-| [OpenVINO GenAI · PR #4248](https://github.com/openvinotoolkit/openvino.genai/pull/4248) | Speculative decoding statistics for `llm_bench` and Who-What Benchmark | **Open PR** |
-| [OpenVINO GenAI · PR #4238](https://github.com/openvinotoolkit/openvino.genai/pull/4238) | Heterogeneous LTX text-to-video examples across selectable CPU/GPU/NPU devices | **Open PR** |
+| [OpenVINO GenAI · PR #4248](https://github.com/openvinotoolkit/openvino.genai/pull/4248) | Speculative decoding statistics for `llm_bench` and Who-What Benchmark | **Approve PR** |
+| [OpenVINO GenAI · PR #4238](https://github.com/openvinotoolkit/openvino.genai/pull/4238) | Heterogeneous LTX text-to-video examples across selectable CPU/GPU/NPU devices | **Approve PR** |
 | [OpenVINO · Issue #39337](https://github.com/openvinotoolkit/openvino/issues/39337) | Reported i32 precision loss above 2²⁴ on CPU/aarch64; reproducible analysis across 22 operations | **Reported** |
 
 
