@@ -29,12 +29,12 @@
 I contribute beyond my own repositories, particularly around **OpenVINO inference tooling, benchmarking, and correctness**.
 
 | Project | Contribution | Status |
-|:--|:--|:--|
+|---|---|---|
 | [OpenVINO GenAI · PR #4706](https://github.com/openvinotoolkit/openvino.genai/pull/4706) | Added SmolLM-135M, SmolLM2-135M, and SmolLM2-360M checkpoint entries to the supported-model catalog | **Merged** |
-| [OpenVINO GenAI · PR #4248](https://github.com/openvinotoolkit/openvino.genai/pull/4248) | Speculative decoding statistics for `llm_bench` and Who-What Benchmark | **Approve PR** |
-| [OpenVINO GenAI · PR #4238](https://github.com/openvinotoolkit/openvino.genai/pull/4238) | Heterogeneous LTX text-to-video examples across selectable CPU/GPU/NPU devices | **Approve PR** |
-| [OpenVINO · Issue #39337](https://github.com/openvinotoolkit/openvino/issues/39337) | Reported i32 precision loss above 2²⁴ on CPU/aarch64; reproducible analysis across 22 operations | **Reported** |
-
+| [OpenVINO GenAI · PR #4248](https://github.com/openvinotoolkit/openvino.genai/pull/4248) | Speculative decoding statistics for `llm_bench` and Who-What Benchmark | **Approved** |
+| [OpenVINO GenAI · PR #4238](https://github.com/openvinotoolkit/openvino.genai/pull/4238) | Heterogeneous LTX text-to-video samples with selectable devices for the text encoder, denoiser, and VAE decoder | **Approved** |
+| [OpenVINO · Issue #39337](https://github.com/openvinotoolkit/openvino/issues/39337) | Reported i32 precision loss above 2²⁴ on CPU/aarch64, with reproducible analysis across 22 operations | **Reported** |
+| [OpenVINO · PR #39602](https://github.com/openvinotoolkit/openvino/pull/39602) | Added native i32 arithmetic and comparison execution on ARM64 to preserve integer precision, with extensive regression coverage | **Open** |
 
 ###  Technical writing
 
